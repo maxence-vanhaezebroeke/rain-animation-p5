@@ -1,2 +1,5 @@
-# rain-animation-html-js
-authors : maxence-vanhaezebroeke and thomas-deasington
+# Rain Animation in HTML/JS  
+
+## Authors
+* maxence-vanhaezebroeke
+* thomas-deasington
