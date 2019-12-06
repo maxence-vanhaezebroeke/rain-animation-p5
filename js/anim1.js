@@ -68,6 +68,7 @@ function start(){
     var audio = new Audio('ext/rain_sound_effect.wav');
     audio.play();
     audio.volume = 0.6;
+    audio.loop();
 
     buttonPlay.remove();
 }
